@@ -1,6 +1,6 @@
 ![](https://github.com/AmirTghizde/SOLID/blob/main/solid.jpg)<br/>
-![](https://img.shields.io/badge/By-AmirTghizde-blue)
-![Github Created At](https://img.shields.io/github/created-at/AmirTghizde/SOLID)
+![](https://img.shields.io/badge/By-AmirTghizde-blue?style=social)
+![Github Created At](https://img.shields.io/github/created-at/AmirTghizde/SOLID?style=flat-square)
 
 # Solid principles
 
