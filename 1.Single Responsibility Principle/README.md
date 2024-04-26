@@ -14,5 +14,5 @@ The [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_respo
 2.  🤝**Lower coupling**  – Less functionality in a single class will have fewer dependencies.
 3.  📂**Organization**  – Smaller, well-organized classes are easier to search than monolithic ones.
 
->[!IMPORTANT]
+>[!NOTE]
 > I tried to come up with some few simple examples which you can find in this package
