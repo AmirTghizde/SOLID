@@ -1,6 +1,6 @@
 The [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle) (SRP) states that **any class must have one, and only one, reason to change.** If a class has more than one reason to change, it should be refactored.
 
-![](https://github.com/AmirTghizde/SOLID/blob/main/1.SingleResponsibilityPrinciple/Image.jpg)
+![](https://github.com/AmirTghizde/SOLID/blob/main/1.Single%20Responsibility%20Principle/Image.jpg)
 
 🤔**Reasoning:** Each responsibility could be a reason to change a class in the future so basically:<br>
 
