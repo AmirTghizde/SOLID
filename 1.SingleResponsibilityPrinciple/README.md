@@ -1,5 +1,7 @@
 Let’s begin with the single responsibility principle. As we might expect, this principle states that  **a class should only have one purpose/responsibility. Furthermore, it should only have one reason to change.**
 
+![](https://github.com/AmirTghizde/SOLID/blob/main/SingleResponsibilityPrinciple/Image.png)
+
 🤔**Reasoning:** Each responsibility could be a reason to change a class in the future. Fewer responsibility = fewer opportunities
 to introduce new bugs during changes 👾
 
