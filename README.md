@@ -23,6 +23,6 @@ The term  **SOLID**  is an acronym that represents the following principles:
 To further enhance your understanding of these principles, I have included examples for each principle in this repository. These examples aim to provide practical illustrations of how the principles can be applied in real-world scenarios.
 Feel free to explore the repository and delve deeper into the SOLID principles!
 
->[IMPORTANT]
+>[!IMPORTANT]
 >Don't forget to drop a star it took me a lot to write this stuff 😵
 
