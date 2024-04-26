@@ -4,7 +4,7 @@ The [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_respo
 
 🤔**Reasoning:** Each responsibility could be a reason to change a class in the future so basically:<br>
 
-**Fewer responsibility = fewer opportunitiesto introduce new bugs during changes 👾**
+**Fewer responsibility = fewer opportunities to introduce new bugs during changes 👾**
 
 
 
