@@ -2,7 +2,7 @@
 The [Open/Closed Principle](https://en.wikipedia.org/wiki/Open/closed_principle), as originally formulated by [Bertrand Meyer](https://en.wikipedia.org/wiki/Bertrand_Meyer), states that **a given software entity should be open for extension, but closed for modification.** Essentially, any given class (or module, or function, etc) should allow for its functionality to be extended, but not allow for modification to its own source code. 
 **Once written they should only be touched to fix errors**, new functionality should go into the new derived classes.
 
-![](https://github.com/AmirTghizde/SOLID/blob/main/2.Open-ClosedPrinciple/Image.jpg)
+![](https://github.com/AmirTghizde/SOLID/blob/main/2.Open-Closed%20Principle/Image.jpg)
 
 **🤔Reasoning:** This principle encourages us to design our code in a way that allows for adding new functionality without modifying existing code. By doing so, we can avoid introducing bugs or unintended side effects in the existing codebase.
 
