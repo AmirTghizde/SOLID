@@ -18,6 +18,4 @@ To adhere to the Open-Closed Principle, here are a few guidelines and practices 
     
 5.  🧪Unit Testing: Write comprehensive unit tests to ensure that adding new functionality doesn't break existing code. Tests act as a safety net, allowing you to confidently extend your codebase.
 
->[!NOTE]
-> I tried to come up with some few simple examples which you can find in this package
 
