@@ -19,10 +19,6 @@ The term  **SOLID**  is an acronym that represents the following principles:
     
 -   🤝**Dependency Inversion Principle (DIP):**  High-level modules should not depend on low-level modules; both should depend on abstractions. This principle encourages the use of dependency inversion, where the dependencies between modules are inverted, making the system more flexible and decoupled.
     
->[!IMPORTANT]
-To further enhance your understanding of these principles, I have included examples for each principle in this repository. These examples aim to provide practical illustrations of how the principles can be applied in real-world scenarios.
-Feel free to explore the repository and delve deeper into the SOLID principles!
-
 >[!NOTE]
 >Don't forget to drop a star it took me a lot to write this stuff 😵
 
