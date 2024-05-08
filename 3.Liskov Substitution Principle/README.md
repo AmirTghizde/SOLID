@@ -15,5 +15,3 @@ By adhering to the Liskov Substitution Principle, we can ensure that our code is
     
 4.  ✅Design by Contract: Applying the Liskov Substitution Principle is closely related to the concept of Design by Contract. It emphasizes the importance of defining clear contracts (preconditions, postconditions, and invariants) for classes and their subclasses, promoting better code documentation and understanding.
 
-   >[!NOTE]
-> I tried to come up with some few simple examples which you can find in this package
